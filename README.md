@@ -1,2 +1,2 @@
 # identifiability_examples
-This folder includes the files of identifiability testing for different examples. The files are within the subfolders of each software tool used. 
+This folder includes files of identifiability testing for different model. The files are within the subfolders of each software tool used. 
