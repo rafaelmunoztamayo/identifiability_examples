@@ -1,0 +1,7 @@
+ % Muñoz-Tamayo, R., de Groot, J., Bakx, E., Wierenga, P.A., Gruppen, H., Zwietering, M.H., Sijtsma, L., 2011. 
+ % Hydrolysis of B-casein by the cell-envelope-located PI-type protease of Lactococcus lactis: A modelling approach.
+ % Int. Dairy J. 21. https://doi.org/10.1016/j.idairyj.2011.03.012
+
+dx1/dt=-k*x1/(Km*(1+(10-x1)/kI)+x1);
+y1=x1;
+x1(0)=10
