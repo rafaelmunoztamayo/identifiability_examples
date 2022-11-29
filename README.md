@@ -18,3 +18,5 @@ NonlinearObservabilityTest: Shi, X., and M. N. Chatzis. 2022. An efficient algor
 The files are within the subfolders of each software tool used. 
 
 The folder also includes Matlab files to perform an optimal experiment design (OED) for a model of microbial growth.
+
+Contact: Rafael Muñoz-Tamayo (rafael.munoz-tamayo@inrae.fr)
